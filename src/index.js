@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
+// https://gist.github.com/pratik-chakravorty?page=2
+// https://codeburst.io/redux-a-crud-example-abb834d763c9
 
 import { Provider } from "react-redux";
 import { createStore } from "redux";
